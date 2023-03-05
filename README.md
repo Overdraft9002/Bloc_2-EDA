@@ -1,5 +1,7 @@
 # Bloc 2 - Analyse exploratoire, descriptive et inférentielle de données
 
+Explanation video link: https://share.vidyard.com/watch/EcnfQF32n1TnBqf1jJjbhq?
+
 In Bloc_2 file :
 
 - A "main" ipynb notebook which runs the data vilusations based on the data file from the tinder study.
