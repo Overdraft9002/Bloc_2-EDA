@@ -1,6 +1,6 @@
 # Bloc 2 - Analyse exploratoire, descriptive et inférentielle de données
 
-Explanation video link: https://share.vidyard.com/watch/EcnfQF32n1TnBqf1jJjbhq?
+This project aims to demonstrate ability to use data visulization to explore the main drivers of matchmaking using the tinder database.
 
 In Bloc_2 file :
 
