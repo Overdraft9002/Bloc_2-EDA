@@ -1,7 +1,5 @@
 # Bloc 2 - Analyse exploratoire, descriptive et inférentielle de données
 
-This project aims to demonstrate ability to use data visulization to explore the main drivers of matchmaking using the tinder database.
-
 In Bloc_2 file :
 
 - A "main" ipynb notebook which runs the data vilusations based on the data file from the tinder study.
